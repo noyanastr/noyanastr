@@ -15,10 +15,10 @@ Cybersecurity & Python Automation | Linux | Offensive Security
 
 ## Projects
 
-### N-DIRB
+### N-DIRB V1.0
 Python-based reconnaissance automation tool using Nmap and Dirb.
 
-### N-FFUF
+### N-FFUF V1.0
 FFUF automation and reporting tool with colored CLI interface.
 
 ---
