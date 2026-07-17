@@ -40,4 +40,4 @@ GitHub
 
 ## Contact
 
-📧 fatihyigit3652@gmail.com
+📧 fathyigit3652@gmail.com
