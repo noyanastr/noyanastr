@@ -48,3 +48,12 @@ Languages: Python, HTML/CSS/JS
 OS: Linux, Kali Linux
 Security Tools: Nmap, FFUF, Dirb, pfSense, IDS/IPS
 Version Control: Git, GitHub
+```
+---
+
+## 📬 Contact
+
+- 📧 [fathyigit3652@gmail.com](mailto:fathyigit3652@gmail.com)
+- 🌐 [fathsecure.runasp.net](https://fathsecure.runasp.net/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fatihyigit3344/)
+- 🐙 [GitHub](https://github.com/noyanastr)
