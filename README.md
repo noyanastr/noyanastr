@@ -18,19 +18,24 @@ Cybersecurity & Python Automation | Junior Web Developer | Linux | Offensive Sec
 
 ## 🚀 Main Projects
 
-### 1. Güvenli Ağ Simülasyonu
+### 1. FatihSecure Portfolio Website
+**Tech Stack:** `HTML/CSS/JS`, `Web Security`, `IDS/IPS`
+My personal portfolio website built to showcase my cybersecurity and web development projects. It features an active secure network simulation.
+🔗 Live at: [fathsecure.runasp.net](https://fathsecure.runasp.net/)
+
+### 2. Güvenli Ağ Simülasyonu
 **Tech Stack:** `pfSense`, `IDS/IPS`, `Log Analysis`, `HTML/CSS/JS`
 A secure network simulation project featuring active IDS/IPS to monitor and analyze suspicious network traffic.
 
-### 2. N-DIRB V1.0
+### 3. N-DIRB V1.0
 **Tech Stack:** `Python`, `Web Security`, `CLI`, `Nmap`, `Dirb`
 Python-based reconnaissance automation tool utilizing Nmap and Dirb for rapid scanning.
 
-### 3. N-FUZZ / N-FFUF V1.0
+### 4. N-FUZZ / N-FFUF V1.0
 **Tech Stack:** `Python`, `Web Security`, `CLI`, `FFUF`
 FFUF automation and reporting tool featuring a colored CLI interface for directory and vulnerability fuzzing.
 
-### 4. RootCode Technology
+### 5. RootCode Technology
 **Tech Stack:** `HTML/CSS/JS`, `Web Security`
 A freelance web project built with modern web technologies and baseline web security practices.
 
@@ -43,13 +48,3 @@ Languages: Python, HTML/CSS/JS
 OS: Linux, Kali Linux
 Security Tools: Nmap, FFUF, Dirb, pfSense, IDS/IPS
 Version Control: Git, GitHub
-```
-
----
-
-## 📬 Contact
-
-- 📧 [fathyigit3652@gmail.com](mailto:fathyigit3652@gmail.com)
-- 🌐 [fathsecure.runasp.net](https://fathsecure.runasp.net/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/fatihyigit3344/)
-- 🐙 [GitHub](https://github.com/noyanastr)
