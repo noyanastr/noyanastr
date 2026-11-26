@@ -2,7 +2,7 @@
 
 Network Security Engineer | Firewall Administration | Security Automation
 
-[Portfolio](https://fathsecure.runasp.net) · [LinkedIn](https://www.linkedin.com) · [Email](mailto:fathyigit3652@gmail.com)
+[Portfolio](https://fathsecure.runasp.net) · [LinkedIn](https://www.linkedin.com/in/fatihyigit3344) · [Email](mailto:fathyigit3652@gmail.com)
 
 ---
 
