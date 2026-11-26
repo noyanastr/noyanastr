@@ -1,59 +1,40 @@
-# Hi, I'm Fatih Yiğit 👋
+# Fatih Yiğit
 
-Cybersecurity & Python Automation | Junior Web Developer | Linux | Offensive Security
+Network Security Engineer | Firewall Administration | Security Automation
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-fathsecure.runasp.net-blue?style=for-the-badge&logo=globe)](https://fathsecure.runasp.net/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatih_Yiğit-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fatihyigit3344/)
-
----
-
-## 👨‍💻 About Me
-
-- 🛡️ Interested in cybersecurity, network simulations, and Linux.
-- 🐍 Building offensive security automation tools with Python.
-- 🌐 Junior Web Developer focusing on secure web architectures.
-- 🎯 Focused on reconnaissance, fuzzing automation, and IDS/IPS systems.
+[Portfolio](https://fathsecure.runasp.net) · [LinkedIn](https://www.linkedin.com) · [Email](mailto:fathyigit3652@gmail.com)
 
 ---
 
-## 🚀 Main Projects
+### Focus Areas
 
-### 1. FatihSecure Portfolio Website
-**Tech Stack:** `HTML/CSS/JS`, `Web Security`, `IDS/IPS`
-My personal portfolio website built to showcase my cybersecurity and web development projects. It features an active secure network simulation.
-🔗 Live at: [fathsecure.runasp.net](https://fathsecure.runasp.net/)
-
-### 2. Güvenli Ağ Simülasyonu
-**Tech Stack:** `pfSense`, `IDS/IPS`, `Log Analysis`, `HTML/CSS/JS`
-A secure network simulation project featuring active IDS/IPS to monitor and analyze suspicious network traffic.
-
-### 3. N-DIRB V1.0
-**Tech Stack:** `Python`, `Web Security`, `CLI`, `Nmap`, `Dirb`
-Python-based reconnaissance automation tool utilizing Nmap and Dirb for rapid scanning.
-
-### 4. N-FUZZ / N-FFUF V1.0
-**Tech Stack:** `Python`, `Web Security`, `CLI`, `FFUF`
-FFUF automation and reporting tool featuring a colored CLI interface for directory and vulnerability fuzzing.
-
-### 5. RootCode Technology
-**Tech Stack:** `HTML/CSS/JS`, `Web Security`
-A freelance web project built with modern web technologies and baseline web security practices.
+* **Firewall & Perimeter Security:** FortiGate (FortiOS), pfSense, UTM policies, IPSec/SSL VPN, NAT, and traffic filtering.
+* **Network Architecture:** LAN/DMZ segmentation, VLAN design, routing fundamentals, and secure home-lab simulations.
+* **Threat Detection & Monitoring:** IDS/IPS deployment (Suricata), packet inspection, and centralized log analysis.
+* **Automation & Scripting:** Developing Python-based CLI utilities and Linux shell scripts for network diagnostics and operational efficiency.
 
 ---
 
-## 🛠️ Technologies
+### Featured Projects
 
-```text
-Languages: Python, HTML/CSS/JS
-OS: Linux, Kali Linux
-Security Tools: Nmap, FFUF, Dirb, pfSense, IDS/IPS
-Version Control: Git, GitHub
-```
+| Project | Focus | Stack |
+| :--- | :--- | :--- |
+| **[Secure Network Design](https://github.com/noyanastr/Secure-Network-Design)** | Enterprise-grade home lab featuring LAN/DMZ segmentation, firewall policy enforcement, and real-time traffic inspection. | `pfSense` `Suricata IDS/IPS` `Network Segmentation` |
+| **[FatihSecure Portfolio](https://fathsecure.runasp.net)** | Personal portfolio platform showcasing network security architectures and interactive traffic simulation concepts. | `Web Security` `HTML/CSS/JS` |
+| **[N-DIRB](https://github.com/noyanastr/n-dirb)** | Automated surface discovery and enumeration utility built to streamline asset visibility workflows. | `Python` `Linux` `CLI` |
+| **[N-FFUF](https://github.com/noyanastr/n-ffuf)** | Structured directory auditing and reporting wrapper with formatted terminal output. | `Python` `CLI` |
+
 ---
 
-## 📬 Contact
+### Technical Stack
 
-- 📧 [fathyigit3652@gmail.com](mailto:fathyigit3652@gmail.com)
-- 🌐 [fathsecure.runasp.net](https://fathsecure.runasp.net/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/fatihyigit3344/)
-- 🐙 [GitHub](https://github.com/noyanastr)
+* **Firewalls & Appliances:** FortiGate (FortiOS), pfSense
+* **Network & Security:** Suricata IDS/IPS, Wireshark, Nmap, TCP/IP, VLANs, VPN
+* **Systems & Scripting:** Linux, Python, Bash, Git
+
+---
+
+### Contact
+
+* **Email:** fathyigit3652@gmail.com
+* **Web:** [fathsecure.runasp.net](https://fathsecure.runasp.net)
